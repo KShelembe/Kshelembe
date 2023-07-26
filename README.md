@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...react and bootstrap
 - 📫 How to reach me ...kwaneleshelembe841@gmail.com
 
-## Hello world !!
+## I love code ❤️💕
 
 <img alt="coding" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width:100%;"/>
 
