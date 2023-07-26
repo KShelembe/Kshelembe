@@ -2,9 +2,9 @@
 # Nice to meet you.
 
 - 👋 Hi, I’m @kwaneleshelembe
-- 👀 I’m interested in ...frontend developement
-- 🌱 I’m currently learning ...react and bootstrap
-- 📫 How to reach me ...kwaneleshelembe841@gmail.com
+- 👀 I’m interested in ...fullstack developement
+- 🌱 I’m currently learning ...vue.js and mongodb
+- 📫 How to reach me ...kwaneleshelembe845@gmail.com
 
 ## I love code ❤️💕
 
