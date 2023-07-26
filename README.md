@@ -8,7 +8,7 @@
 
 ## Hello world !!
 
-<img alt="coding" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
+<img alt="coding" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" style="width:100%;"/>
 
 <!---
 kwaneleshelembe/kwaneleshelembe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
